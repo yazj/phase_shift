@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://30pur5dua67x"
-path="res://.godot/imported/IDLE.png-756b02a538f5ae53bd4219a833d0e8e8.ctex"
+uid="uid://dnjnryljgqq7x"
+path="res://.godot/imported/male_hero-fall_loop.png-b4e036e880ee194c162e189863a41622.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/FREE_Samurai 2D Pixel Art v1.2/Sprites/IDLE.png"
-dest_files=["res://.godot/imported/IDLE.png-756b02a538f5ae53bd4219a833d0e8e8.ctex"]
+source_file="res://assets/sprites/male_hero_free/individual_sheets/male_hero-fall_loop.png"
+dest_files=["res://.godot/imported/male_hero-fall_loop.png-b4e036e880ee194c162e189863a41622.ctex"]
 
 [params]
 

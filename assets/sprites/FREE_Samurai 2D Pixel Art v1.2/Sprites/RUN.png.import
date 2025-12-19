@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dbvuxoo5st602"
-path="res://.godot/imported/RUN.png-e01661cc9515b25d3901c9af8677309e.ctex"
+path="res://.godot/imported/RUN.png-a60974f016ec29ef1983db26f7ebbaba.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/FREE_Samurai 2D Pixel Art v1.2/Sprites/RUN.png"
-dest_files=["res://.godot/imported/RUN.png-e01661cc9515b25d3901c9af8677309e.ctex"]
+source_file="res://assets/sprites/FREE_Samurai 2D Pixel Art v1.2/Sprites/RUN.png"
+dest_files=["res://.godot/imported/RUN.png-a60974f016ec29ef1983db26f7ebbaba.ctex"]
 
 [params]
 

@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://8bwpafcnen58"
-path="res://.godot/imported/ATTACK 1.png-e437c93a0edcfcde0041d9edc179e5c3.ctex"
+uid="uid://brk2ioybsmo7m"
+path="res://.godot/imported/male_hero-combo_1_end.png-c961827af0b0999224fdda2c9084639c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/FREE_Samurai 2D Pixel Art v1.2/Sprites/ATTACK 1.png"
-dest_files=["res://.godot/imported/ATTACK 1.png-e437c93a0edcfcde0041d9edc179e5c3.ctex"]
+source_file="res://assets/sprites/male_hero_free/individual_sheets/male_hero-combo_1_end.png"
+dest_files=["res://.godot/imported/male_hero-combo_1_end.png-c961827af0b0999224fdda2c9084639c.ctex"]
 
 [params]
 

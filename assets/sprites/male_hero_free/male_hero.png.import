@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://f6hdjes51bs5"
-path="res://.godot/imported/Preview.png-606cefa5e6cdab4081b5bb8c8f97554d.ctex"
+uid="uid://dmw3qs5jaourq"
+path="res://.godot/imported/male_hero.png-a377165ab2885f3f3de207cc0eb6d8c7.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/FREE_Samurai 2D Pixel Art v1.2/Preview.png"
-dest_files=["res://.godot/imported/Preview.png-606cefa5e6cdab4081b5bb8c8f97554d.ctex"]
+source_file="res://assets/sprites/male_hero_free/male_hero.png"
+dest_files=["res://.godot/imported/male_hero.png-a377165ab2885f3f3de207cc0eb6d8c7.ctex"]
 
 [params]
 
